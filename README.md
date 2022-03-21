@@ -56,13 +56,13 @@ A dating app that allows user to match with potential partners based on matching
 
 **Tab Navigation** (Tab to Screen)
 
-* Matching
-* Messages and Matches
-* Profile 
+* Matching -> Showing the cards of profiles and being able to swipe right/left in order to match or pass.
+* Messages and Matches -> Top portion showing new matches while bottom showing current messages.
+* Profile -> Your profile page with buttons to lead to settings for matches and personal information editing. 
 
 Optional:
-* Music/Encounter Queue
-* Discover (Top Choices)
+* Music/Encounter Queue -> Choose music interest and match with others with same options.
+* Discover (Top Choices) -> Most matches for certain individuals.  
 
 **Flow Navigation** (Screen to Screen)
 * Forced Log-in -> Account creation if no log in is available
