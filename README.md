@@ -59,16 +59,12 @@ A dating app that allows user to match with potential partners based on matching
 * Matching -> Showing the cards of profiles and being able to swipe right/left in order to match or pass.
 * Messages and Matches -> Top portion showing new matches while bottom showing current messages.
 * Profile -> Your profile page with buttons to lead to settings for matches and personal information editing. 
-
-Optional:
-* Music/Encounter Queue -> Choose music interest and match with others with same options.
-* Discover (Top Choices) -> Most matches for certain individuals.  
+ 
 
 **Flow Navigation** (Screen to Screen)
-* Forced Log-in -> Account creation if no log in is available
-* Music Selection (Or Queue if Optional) -> Jumps to Chat
-* Profile -> Text field to be modified. 
-* Settings -> Toggle settings
+* Forced Log-in -> Account creation if no log in is available or jumps to log in screen if chosen.
+* Register -> After entering your first time registertaion info you're sent to the matching page. 
+* Profile -> Options to either change your profile information or see your settings and have option to logout  
 
 ## Wireframes
 <img src="https://i.imgur.com/xw66Eew.jpg" width=800><br>
