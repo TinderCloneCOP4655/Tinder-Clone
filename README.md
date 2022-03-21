@@ -56,9 +56,9 @@ A dating app that allows user to match with potential partners based on matching
 
 **Tab Navigation** (Tab to Screen)
 
-* Music selection
-* Profile
-* Settings
+* Matching
+* Messages and Matches
+* Profile 
 
 Optional:
 * Music/Encounter Queue
