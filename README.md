@@ -85,7 +85,7 @@ A dating app that allows user to match with potential partners based on matching
    | UserId      | String | unique id for the user profile (default field) |
    | name        | String | user's name |
    | ProfileImageUrl | String | image that user uploads |
-   | chatId       | String | chat id after users matching |
+   | chatId       | String | chat id for matching users |
    
 ### Networking
 #### List of network requests by screen
