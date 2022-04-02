@@ -7,6 +7,7 @@
 1. [Product Spec](#Product-Spec)
 1. [Wireframes](#Wireframes)
 1. [Schema](#Schema)
+1. [GIFS](#GIFS)
 
 ## Overview
 ### Description
@@ -105,8 +106,13 @@ A dating app that allows user to match with potential partners based on matching
       - (Read/GET) Query logged in user object
       - (Update/PUT) Update user profile information
 
-#### [OPTIONAL:] Existing API Endpoints
-- ...
+## [GIFS]
+### BUILD SPRINT 1
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/aGBjtF3p1d.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [Recordit](https://recordit.co/).
 
 ## License
 
