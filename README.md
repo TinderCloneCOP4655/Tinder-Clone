@@ -112,7 +112,22 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/aGBjtF3p1d.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [Recordit](https://recordit.co/).
+### BUILD SPRINT 2
+Here's a walkthrough of implemented user stories:
+
+<img src='...' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+### BUILD SPRINT 3
+Here's a walkthrough of implemented user stories:
+
+<img src='...' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+### BUILD SPRINT 4
+Here's a walkthrough of implemented user stories:
+
+<img src='...' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIFs created with [Recordit](https://recordit.co/).
 
 ## License
 
