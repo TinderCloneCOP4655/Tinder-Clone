@@ -106,7 +106,7 @@ A dating app that allows user to match with potential partners based on matching
       - (Read/GET) Query logged in user object
       - (Update/PUT) Update user profile information
 
-## [GIFS]
+## GIFS
 ### BUILD SPRINT 1
 Here's a walkthrough of implemented user stories:
 
