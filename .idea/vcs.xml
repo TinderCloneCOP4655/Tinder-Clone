@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Android/Flixster" vcs="" />
+    <mapping directory="$PROJECT_DIR$/Android/InstagramClone" vcs="" />
+    <mapping directory="$PROJECT_DIR$/Android/SimpleToDo" vcs="" />
+    <mapping directory="$PROJECT_DIR$/Android/SimpleTodo20" vcs="" />
+    <mapping directory="$PROJECT_DIR$/Android/SimpleTweet" vcs="" />
+    <mapping directory="$PROJECT_DIR$/Android/SimpleTweetPagination" vcs="" />
+  </component>
+</project>
