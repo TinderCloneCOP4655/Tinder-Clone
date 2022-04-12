@@ -115,7 +115,7 @@ Here's a walkthrough of implemented user stories:
 ### BUILD SPRINT 2
 Here's a walkthrough of implemented user stories:
 
-<img src='...' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/pPqKTLqq0x.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### BUILD SPRINT 3
 Here's a walkthrough of implemented user stories:
