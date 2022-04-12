@@ -26,8 +26,8 @@ A dating app that allows user to match with potential partners based on matching
 
 **Required Must-have Stories**
 
-- [ ] User can sign up to create a new account.
-- [ ] User can log in and log out of his or her account.
+- [x] User can sign up to create a new account.
+- [x] User can log in and log out of his or her account.
 - [ ] Profile pages for each user.
 - [x] User can swipe right or left to match or pass.
 - [ ] Matches have a chat window to get to know each other.
