@@ -42,8 +42,9 @@ A dating app that allows user to match with potential partners based on matching
 
 ### 2. Screen Archetypes
 
-* Login 
-* Register - User signs up or logs into their account
+* Register - User can sign up for a new account.
+   * Upon Download/Reopening of the application, the user is prompted to create a new account to gain access to their profile information to be properly matched with another person. 
+* Login - User can loging or logout out of their account.
    * Upon Download/Reopening of the application, the user is prompted to log in to gain access to their profile information to be properly matched with another person. 
 * Messaging Screen - Chat for users to communicate (direct 1-on-1)
    * Upon swiping right, users are matched and message screen opens
