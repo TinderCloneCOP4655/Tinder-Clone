@@ -121,28 +121,12 @@ Here's a walkthrough of implemented user stories:
 ### BUILD SPRINT 3
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/NLwRhxrmdX.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/MidH2T2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### BUILD SPRINT 4
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/MidH2T2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-### BUILD SPRINT 5
-Here's a walkthrough of implemented user stories:
-
 <img src='...' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-### BUILD SPRINT 6
-Here's a walkthrough of implemented user stories:
-
-<img src='...' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-### BUILD SPRINT 7
-Here's a walkthrough of implemented user stories:
-
-<img src='...' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 
 ## License
 
