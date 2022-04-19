@@ -34,6 +34,7 @@ A dating app that allows user to match with potential partners based on matching
 
 **Optional Nice-to-have Stories**
 
+* Edit the style/color (UX/UI) similar to Tinder.
 * Users can use their current location to match with nearby users.
 * Add a page for preferences (set distance based on user location).
 * Users can link their instagram and/or Spotify onto their profile.
