@@ -28,12 +28,13 @@ A dating app that allows user to match with potential partners based on matching
 
 - [x] User can sign up to create a new account.
 - [x] User can log in and log out of his or her account.
-- [ ] Profile pages for each user.
+- [x] Matching System and Profile pages for each user.
 - [x] User can swipe right or left to match or pass.
 - [ ] Matches have a chat window to get to know each other.
 
 **Optional Nice-to-have Stories**
 
+* Edit the style/color (UX/UI) similar to Tinder.
 * Users can use their current location to match with nearby users.
 * Add a page for preferences (set distance based on user location).
 * Users can link their instagram and/or Spotify onto their profile.
