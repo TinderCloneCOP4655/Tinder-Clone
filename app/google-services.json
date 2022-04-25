@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "846915227873",
+    "project_id": "tinderclone-7b066",
+    "storage_bucket": "tinderclone-7b066.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846915227873:android:5e6d304f1df927b7f427a0",
+        "android_client_info": {
+          "package_name": "com.example.tinderclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846915227873-n42banquebpkuftim25f09gp1hmj9ern.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tinderclone",
+            "certificate_hash": "1311577408f02d0a021ab12c25a18949dbcc529f"
+          }
+        },
+        {
+          "client_id": "846915227873-rv86s7ht732rpbkb7r5osnjmeuaa5rg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATgtLQcovxtSUWP0vSO5Ha9oEsMQGyRYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846915227873-rv86s7ht732rpbkb7r5osnjmeuaa5rg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
