@@ -30,7 +30,7 @@ A dating app that allows user to match with potential partners based on matching
 - [x] User can log in and log out of his or her account.
 - [x] Matching System and Profile pages for each user.
 - [x] User can swipe right or left to match or pass.
-- [ ] Matches have a chat window to get to know each other.
+- [x] Matches have a chat window to get to know each other.
 
 **Optional Nice-to-have Stories**
 
@@ -127,7 +127,7 @@ Here's a walkthrough of implemented user stories:
 ### BUILD SPRINT 4
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/KMMNuX56XB.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/2SXlBkoqQb.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## License
 
