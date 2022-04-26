@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Kevin/AndroidStudioProjects/TinderClone/app/src/main/res/layout/activity_chat.xml" value="0.32563405797101447" />
         <entry key="..\:/Users/Kevin/AndroidStudioProjects/TinderClone/app/src/main/res/layout/activity_main.xml" value="0.2708333333333333" />
         <entry key="..\:/Users/Kevin/AndroidStudioProjects/TinderClone/app/src/main/res/layout/activity_settings.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/Kevin/AndroidStudioProjects/TinderClone/app/src/main/res/layout/item_chat.xml" value="0.32563405797101447" />
+        <entry key="..\:/Users/Kevin/AndroidStudioProjects/TinderClone/app/src/main/res/layout/item_matches.xml" value="0.32563405797101447" />
         <entry key="..\:/Users/manny/AndroidStudioProjects/TinderClone/app/src/main/res/layout/activity_choose_login_registration.xml" value="0.18854166666666666" />
         <entry key="..\:/Users/manny/AndroidStudioProjects/TinderClone/app/src/main/res/layout/activity_login.xml" value="0.18854166666666666" />
         <entry key="..\:/Users/manny/AndroidStudioProjects/TinderClone/app/src/main/res/layout/activity_main.xml" value="0.18854166666666666" />
